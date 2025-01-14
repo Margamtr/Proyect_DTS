@@ -115,3 +115,4 @@ def valores_unicos_frecuencias(df):
     for columna in df.columns:
         print(f'\nPara la columna {columna} los valores únicos son:\n')
         print(df[columna].value_counts())
+
