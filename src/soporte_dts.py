@@ -116,3 +116,9 @@ def valores_unicos_frecuencias(df):
         print(f'\nPara la columna {columna} los valores únicos son:\n')
         print(df[columna].value_counts())
 
+def numero_filas(df,nombre_df):
+    """ Devuelve el numero de filas
+        Arg (df)
+        Return(NONE)
+    """
+    print(f'Numero de filas de df {nombre_df}: {df.shape[0]} filas')
