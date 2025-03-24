@@ -1,34 +1,31 @@
 
-**This is a practical exercise**
-# DataTech Solutions Dashboard Project
+**Este es un ejercicio práctico**  
+# Proyecto de Dashboard de DataTech Solutions  
 
-The company **DataTech Solutions** is a leading firm in the technology and e-commerce sector. It is dedicated to selling a wide range of products including electronics, clothing, books, home and kitchen items, as well as sports and outdoor products. With a diverse and constantly growing customer base, DataTech Solutions strives to offer high-quality products and excellent customer service.
+La empresa **DataTech Solutions** es una firma líder en el sector de tecnología y comercio electrónico. Se dedica a la venta de una amplia gama de productos, incluyendo electrónicos, ropa, libros, artículos para el hogar y la cocina, así como productos deportivos y para exteriores. Con una base de clientes diversa y en constante crecimiento, DataTech Solutions se esfuerza por ofrecer productos de alta calidad y un excelente servicio al cliente.  
 
-## Project Overview
+## Descripción del Proyecto  
 
-To improve its sales and marketing strategies, the company has gathered a significant amount of data on its products, customers, and sales transactions. This data is fundamental for analyzing customer behavior, identifying sales trends, and optimizing inventory.
+Para mejorar sus estrategias de ventas y marketing, la empresa ha recopilado una gran cantidad de datos sobre sus productos, clientes y transacciones de ventas. Estos datos son fundamentales para analizar el comportamiento del cliente, identificar tendencias de ventas y optimizar el inventario.  
 
-The client has asked us to create a dashboard that compiles the most relevant information from the collected data and answers the following questions:
+El cliente nos ha solicitado crear un dashboard que compile la información más relevante de los datos recopilados y responda las siguientes preguntas:  
 
-### Customer Behavior
+### Comportamiento del Cliente  
 
-- Understand the age of the customers
-- Identify which customers buy the most and most frequently
+- Comprender la edad de los clientes  
+- Identificar qué clientes compran más y con mayor frecuencia  
 
-### Trend Identification
+### Identificación de Tendencias  
 
-- Understand how buying habits have changed over time
-- Identify if certain categories are being purchased now that were not before, or vice versa
-- Determine which days of the week accumulate the most sales
+- Analizar cómo han cambiado los hábitos de compra con el tiempo  
+- Determinar si ciertas categorías se compran ahora más que antes o viceversa  
+- Identificar qué días de la semana acumulan más ventas  
 
-### Inventory Optimization
+### Optimización del Inventario  
 
-- Understand which categories are the most popular
-- Identify products that are no longer selling
-
-## Additional Tasks
-
-As a bonus, we have been asked to create a database to store the cleaned data tables so that all departments can access this data.
+- Determinar qué categorías son las más populares  
+- Identificar productos que han dejado de venderse
+  
 ![image](https://github.com/user-attachments/assets/926e3beb-c954-486c-8bc8-57d507d76c7f)
 
 ---
