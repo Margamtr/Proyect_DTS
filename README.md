@@ -29,6 +29,7 @@ The client has asked us to create a dashboard that compiles the most relevant in
 ## Additional Tasks
 
 As a bonus, we have been asked to create a database to store the cleaned data tables so that all departments can access this data.
+![image](https://github.com/user-attachments/assets/926e3beb-c954-486c-8bc8-57d507d76c7f)
 
 ---
 
